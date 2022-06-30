@@ -2,7 +2,10 @@ body {
     margin: 20px;
 }
 
-.image {
-    max-width: 50px;
-    height: auto;
+.avatar{
+    width: 150px;
+}
+.card{
+    border: 1px dotted blue;
+    padding: 20px;
 }
