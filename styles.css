@@ -2,7 +2,19 @@ body {
     margin: 20px;
 }
 
-.image {
-    max-width: 50px;
-    height: auto;
+.avatar{
+    width: 150px;
+}
+.card{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #2b2839;
+    background-color: powderblue ;
+    border-bottom: 5px solid cadetblue;
+    font-family: Verdana, sans-serif;
 }
