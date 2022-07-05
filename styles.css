@@ -13,9 +13,8 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-
-}
-
-.border-blue {
-    border: 1px dotted blue;
+    color: #2b2839;
+    background-color: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
+    font-family: Tahoma, sans-serif;
 }
